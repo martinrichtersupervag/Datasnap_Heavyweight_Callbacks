@@ -13,4 +13,4 @@ Some additional information on DataSnap can be found here: http://mathewdelong.w
 
 This file should be used on the UI webserver (PHP WebServer) that will act as a Proxy and communicate with a DataSnap REST service!
 
-Mobile Device/Tablet WebBased UI <-> PHP-PROXY (here you should use this code) <-> DataSnap REST service.
+Mobile Device/Tablet Browser <-> UI WebServer + PHP-PROXY (here you should use this code) <-> DataSnap REST service.
